@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add type hinting to explorer.py (#7388)
