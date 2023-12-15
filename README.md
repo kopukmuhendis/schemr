@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+New HUB Cloud Training docs page (#8174)
