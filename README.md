@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Avoid creating -hub dir without processing images (#8334)
