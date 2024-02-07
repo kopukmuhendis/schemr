@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
